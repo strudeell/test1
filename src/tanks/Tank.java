@@ -38,7 +38,7 @@ class Tank {
     }
 
     public void printPosition() {
-        System.out.println("The Tank T34-"+number+ " is at " + x +", " + y + " now.");
+        System.out.println("Tank T34-"+number+ " is at " + x +", " + y + " now.");
     }
 
     public void turnLeft() {
